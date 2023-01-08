@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/josh420blaze/vroom.git/static/css/main.2d443f84.css",
+    "main.js": "/josh420blaze/vroom.git/static/js/main.70786759.js",
+    "index.html": "/josh420blaze/vroom.git/index.html",
+    "main.2d443f84.css.map": "/josh420blaze/vroom.git/static/css/main.2d443f84.css.map",
+    "main.70786759.js.map": "/josh420blaze/vroom.git/static/js/main.70786759.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d443f84.css",
+    "static/js/main.70786759.js"
+  ]
+}
